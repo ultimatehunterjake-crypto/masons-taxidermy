@@ -1,0 +1,1 @@
+console.log('Taxidermy site loaded');
